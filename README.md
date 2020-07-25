@@ -25,7 +25,7 @@ B. Add a "Stan" and "Twitch" button to the app you just made, which do the same 
 C. Add an "Exit" button, a "Clear" button and a "Reset" button to the program you just made. Put all the TV buttons on one row, and the "Exit," "Clear" and "Reset" buttons on a different row underneath. Make the "Exit" button break out of the main loop when I click it. Make the "Clear" button clear all text that is showing in the "What do you watch on TV?" text element. Make the "Reset" button show the original text when the app loads ("What do you watch on TV?").
 
 An image of the final product is shown here:
-(https://github.com/msjones3/intro_pysimplegui/blob/master/image.png "example GUI interface")
+![sample interface](https://github.com/msjones3/intro_pysimplegui/blob/master/image.png "example GUI interface")
 
 ## credits
 Special thanks to the creator of [voidinit.com] for this great content
