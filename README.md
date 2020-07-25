@@ -9,10 +9,10 @@ Open the projects folder in Visual Studio Code (or whichever IDE you are using)
 In the terminal, navigate to the folder containing the py files. 
 
 Type the following in the command line:
-    $ pip install -r requirements.txt
+    `$ pip install -r requirements.txt`
 
 Make sure you read the code first. Try to understand what it should do before running it. To run:
-    $ python 1simplest.py
+    `$ python 1simplest.py`
 
 Do the same for each of the files, and then try the problems below:
 
